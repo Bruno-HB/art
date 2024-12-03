@@ -1,0 +1,5 @@
+streamlit
+pymupdf
+spacy
+pillow
+https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.5.0/fr_core_news_md-3.5.0.tar.gz
